@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TinNews</string>
+    <string name="share_link">Share The Link</string>
+    <string name="copy_the_link">Copy The Link</string>
+
+    <!-- add bottom bar string -->
+    <string name="tin">新闻</string>
+    <string name="save">保存</string>
+    <string name="profile">设置</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="author_unknown">Unknown Author</string>
+    <string name="clear_cache">清空缓存</string>
+    <string name="setting">设置</string>
+    <string name="change_source">改变语言</string>
+    <string name="de">德语</string>
+    <string name="us">英文（美国）</string>
+    <string name="cn">中文</string>
+</resources>
